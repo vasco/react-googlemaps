@@ -1,7 +1,7 @@
 "use strict";
 
 var React = require('react');
-var assign = require('react/lib/Object.assign');
+var assign = require('Object.assign');
 var cloneWithProps = require('react/lib/cloneWithProps');
 var GoogleMapsAPI = require('../../GoogleMapsAPI');
 var MapPropTypes = require('../MapPropTypes');
