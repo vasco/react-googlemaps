@@ -10,6 +10,9 @@
     "maps"
   ],
   "main": "index.js",
+  "files": [
+    "src"
+  ],
   "scripts": {
     "test": "jest",
     "build-examples": "webpack --devtool inline-source-map",
